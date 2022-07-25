@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685035364016",
+    "project_id": "native-notify-push-notificatn",
+    "storage_bucket": "native-notify-push-notificatn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685035364016:android:d3c5a1c087804aeeb96575",
+        "android_client_info": {
+          "package_name": "com.example.native_notify_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685035364016-k9t8rgv1h69s2ele0hromp6gu3n870ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSMGC_70tvlDno_5fiOAfVcUv_HP8rDVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685035364016-k9t8rgv1h69s2ele0hromp6gu3n870ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
