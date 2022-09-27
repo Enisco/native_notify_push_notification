@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:native_notify/native_notify.dart';
 
-String firebaseServerKey = 'AAAAn39KHrA:APA91bHtyyucEbY-As5FF-Ik8zL5QIk15kvdOevFOLwMTKCicVqvvl_Vfe6eB6nylv6mcu4Q0WPVSubSPplNgkwvQLuX1Ndgldf8aN1QicYcjG3A24n2TqiyqBHczrBOVyKv0sIV2dry';
+String firebaseServerKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   NativeNotify.initialize(1212, 'fLfrdNiBhoP2hlzmlzioVU');
