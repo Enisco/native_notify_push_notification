@@ -4,7 +4,7 @@ import 'package:native_notify/native_notify.dart';
 String firebaseServerKey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  NativeNotify.initialize(1212, 'fLfrdNiBhoP2hlzmlzioVU');
+  NativeNotify.initialize(0000, 'xxxxxxxxxxxxxxxxxxxxxxxxx');
   runApp(const MyApp());
 }
 
